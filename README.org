@@ -1,0 +1,3 @@
+#+title: Jolly
+
+All of the magic lives in [[https://github.com/goteamjolly/.github/blob/main/profile/README.md][profile/README.md]]. See you there!
